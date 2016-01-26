@@ -59,11 +59,7 @@ header {
 }
 
 .error {
-	border:none;
 	border-bottom: 1px solid red;
-	color: red;
-	font-size: 1.4rem;
-	width: 40%;
 }
 
 .status {
